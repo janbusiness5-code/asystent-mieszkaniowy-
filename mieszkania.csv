@@ -1,0 +1,31 @@
+id;lokalizacja;pokoje;metraz;pietro;winda;balkon;typ_najmu;cena;dla_studentow;dla_par;dla_rodziny;dla_singli;parking;media_w_cenie;zwierzeta;standard;dostepne_od;opis;zdjecie
+1;Wilda;1;25;2;True;False;dlugoterminowy;1800;True;True;False;True;False;True;True;nowe;2025-09-01;Kameralna kawalerka idealna dla singla lub pary;img/wilda1.jpg
+2;Jeżyce;2;40;3;True;True;dlugoterminowy;2500;False;True;False;False;True;False;False;dobry;2025-09-15;Dwa pokoje z balkonem w zielonej okolicy;img/jezyce1.jpg
+3;Grunwald;3;75;4;True;True;dlugoterminowy;3800;False;False;True;False;True;True;True;wysoki;2025-10-01;Przestronne mieszkanie dla rodziny;img/grunwald1.jpg
+4;Rataje;2;50;1;False;False;krotkoterminowy;200;True;True;False;False;False;True;False;dobry;2025-08-25;Krótkoterminowy wynajem blisko centrum;img/rataje1.jpg
+5;Łazarz;4;85;5;True;True;dlugoterminowy;5000;False;False;True;False;True;True;True;wysoki;2025-09-10;Duże rodzinne mieszkanie z balkonem;img/lazarz1.jpg
+6;Winogrady;1;28;2;False;False;dlugoterminowy;1900;True;True;False;True;False;True;True;dobry;2025-09-05;Kawalerka blisko terenów zielonych;img/winogrady1.jpg
+7;Sołacz;2;55;3;True;True;dlugoterminowy;3200;False;False;True;False;True;False;True;wysoki;2025-09-20;Rodzinne mieszkanie z balkonem;img/solacz1.jpg
+8;Podolany;1;28;1;False;False;krotkoterminowy;150;True;False;False;True;False;False;True;dobry;2025-08-22;Studencka opcja na dobę;img/podolany1.jpg
+9;Stare Miasto;2;48;4;True;True;dlugoterminowy;2900;True;True;False;False;True;False;False;dobry;2025-09-12;Nowoczesne mieszkanie w centrum;img/staremiasto1.jpg
+10;Łacina;1;30;2;True;False;dlugoterminowy;2000;True;True;False;True;False;True;True;nowe;2025-09-01;Kawalerka przy galerii handlowej;img/lacina1.jpg
+11;Strzeszyn;3;65;2;False;True;dlugoterminowy;3500;False;False;True;False;True;True;True;dobry;2025-10-01;Rodzinne mieszkanie w spokojnej okolicy;img/strzeszyn1.jpg
+12;Wilda;2;42;3;True;False;dlugoterminowy;2600;True;True;False;False;False;True;True;dobry;2025-09-15;Dwa pokoje, idealne dla studentów;img/wilda2.jpg
+13;Jeżyce;1;27;1;False;False;krotkoterminowy;180;True;True;False;True;False;False;True;dobry;2025-08-28;Kawalerka na krótki termin;img/jezyce2.jpg
+14;Grunwald;2;58;4;True;True;dlugoterminowy;3300;False;True;True;False;True;True;True;wysoki;2025-09-20;Mieszkanie dla rodziny lub pary;img/grunwald2.jpg
+15;Rataje;1;26;2;False;False;dlugoterminowy;1700;True;True;False;True;False;True;True;dobry;2025-09-05;Niedroga kawalerka;img/rataje2.jpg
+16;Łazarz;2;45;3;True;True;dlugoterminowy;2800;True;True;False;False;True;False;False;dobry;2025-09-10;Dwa pokoje z balkonem;img/lazarz2.jpg
+17;Winogrady;3;72;6;True;True;dlugoterminowy;4100;False;False;True;False;True;True;True;wysoki;2025-09-25;Rodzinne mieszkanie w bloku z windą;img/winogrady2.jpg
+18;Sołacz;1;29;1;False;False;dlugoterminowy;1900;True;True;False;True;False;True;True;dobry;2025-09-01;Kawalerka blisko parku;img/solacz2.jpg
+19;Podolany;2;52;3;True;True;dlugoterminowy;3000;False;True;True;False;True;True;True;dobry;2025-09-15;Rodzinne mieszkanie z parkingiem;img/podolany2.jpg
+20;Stare Miasto;1;31;2;True;False;dlugoterminowy;2100;True;True;False;True;False;True;True;nowe;2025-09-01;Kawalerka w centrum;img/staremiasto2.jpg
+21;Łacina;2;60;4;True;True;dlugoterminowy;3400;False;True;True;False;True;True;True;wysoki;2025-09-20;Przestronne mieszkanie z balkonem;img/lacina2.jpg
+22;Strzeszyn;2;53;2;False;True;dlugoterminowy;3100;True;True;True;False;False;True;True;dobry;2025-09-15;Idealne mieszkanie dla rodziny;img/strzeszyn2.jpg
+23;Wilda;3;68;5;True;True;dlugoterminowy;3900;False;False;True;False;True;True;True;wysoki;2025-09-30;Rodzinne mieszkanie w nowym bloku;img/wilda3.jpg
+24;Jeżyce;2;44;3;True;False;dlugoterminowy;2700;True;True;False;False;False;True;True;dobry;2025-09-10;Mieszkanie dla pary lub studentów;img/jezyce3.jpg
+25;Grunwald;1;30;1;False;False;krotkoterminowy;220;True;True;False;True;False;False;True;dobry;2025-08-20;Kawalerka na wynajem krótkoterminowy;img/grunwald3.jpg
+26;Rataje;3;70;4;True;True;dlugoterminowy;3700;False;False;True;False;True;True;True;wysoki;2025-09-20;Rodzinne mieszkanie przy Warcie;img/rataje3.jpg
+27;Łazarz;1;28;2;False;False;dlugoterminowy;1800;True;True;False;True;False;True;True;dobry;2025-09-05;Kawalerka w centrum Łazarza;img/lazarz3.jpg
+28;Winogrady;2;49;3;True;True;dlugoterminowy;2950;True;True;True;False;True;True;True;dobry;2025-09-18;Dwa pokoje z balkonem;img/winogrady3.jpg
+29;Sołacz;3;80;4;True;True;dlugoterminowy;4500;False;False;True;False;True;True;True;wysoki;2025-09-25;Przestronne mieszkanie w zielonej okolicy;img/solacz3.jpg
+30;Podolany;1;26;1;False;False;dlugoterminowy;1750;True;True;False;True;False;True;True;dobry;2025-09-10;Tania kawalerka na start;img/podolany3.jpg
