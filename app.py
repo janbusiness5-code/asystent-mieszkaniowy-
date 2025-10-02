@@ -5,6 +5,7 @@ from engines import nl as nl_eng
 from engines import filters as filt_eng
 from engines import ui as ui_eng
 from engines import answers as ans_eng
+# siemanko
 
 st.set_page_config(page_title="Asystent Mieszkaniowy", page_icon="🏠", layout="wide")
 
