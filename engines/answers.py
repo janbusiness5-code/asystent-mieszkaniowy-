@@ -5,7 +5,7 @@ from typing import Dict, Any, Optional, Tuple
 import pandas as pd
 
 from .utils import pretty_pln, pretty_m2
-# siemanko
+
 # -----------------------------
 # Opcjonalny backend LLM
 # -----------------------------
